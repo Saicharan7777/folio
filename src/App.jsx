@@ -4,6 +4,7 @@ import { loadSlim } from '@tsparticles/slim';
 import Typed from 'typed.js';
 import './App.css';
 
+
 function App() {
   const [theme, setTheme] = useState(localStorage.getItem('theme') || 'dark');
   const [menuActive, setMenuActive] = useState(false);
