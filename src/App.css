@@ -600,11 +600,12 @@ body.light .certificate-block {
 
 .footer {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   flex-wrap: wrap;
   padding: 2rem 9%;
   background: var(--bg);
+  text-align: center;
 }
 
 .footer-text p {

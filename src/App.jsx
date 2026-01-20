@@ -211,7 +211,7 @@ function App() {
             About
           </a>
           <a href="#coding-profiles" onClick={handleNavLinkClick}>
-            Profiles
+             Coding Profiles
           </a>
           <a href="#skills" onClick={handleNavLinkClick}>
             Skills
@@ -619,7 +619,6 @@ function App() {
           </form>
         </section>
       </main>
-
       <footer className="footer">
         <div className="footer-text">
           <p>© 2025 Saicharan Maddimsetti | All Rights Reserved.</p>
