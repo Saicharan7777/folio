@@ -216,9 +216,7 @@ function App() {
           <a href="#skills" onClick={handleNavLinkClick}>
             Skills
           </a>
-          <a href="#certifications" onClick={handleNavLinkClick}>
-            Certs
-          </a>
+          
           <a href="#projects" onClick={handleNavLinkClick}>
             Projects
           </a>
