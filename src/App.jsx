@@ -280,7 +280,7 @@ function App() {
               </a>
             </div>
             <a
-              href="https://drive.google.com/file/d/1kI0P6TlHXyn7SaTVE2FK8HpBt7PlC8xx/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1oIjfB8pq1Uu393J-QM97MF4eXblmCbT2/view?usp=drive_link"
               target="_blank"
               rel="noreferrer"
               className="btn btn-secondary"
@@ -400,78 +400,90 @@ function App() {
 
         <section className="skills" id="skills">
           <h2 className="heading reveal">My Skills</h2>
-          <div className="skills-container">
-            <div className="glass-card skill-card reveal">
-              <i className="devicon-c-plain"></i>
-              <p>C</p>
+
+          <div className="skill-category reveal">
+            <h3 className="skill-category-heading">Programming Languages</h3>
+            <div className="skills-container">
+              <div className="glass-card skill-card reveal">
+                <i className="devicon-c-plain"></i>
+                <p>C</p>
+              </div>
+              <div className="glass-card skill-card reveal">
+                <i className="devicon-cplusplus-plain"></i>
+                <p>C++</p>
+              </div>
+              <div className="glass-card skill-card reveal">
+                <i className="devicon-java-plain"></i>
+                <p>Java</p>
+              </div>
+              <div className="glass-card skill-card reveal">
+                <i className="devicon-python-plain"></i>
+                <p>Python</p>
+              </div>
             </div>
-            <div className="glass-card skill-card reveal">
-              <i className="devicon-cplusplus-plain"></i>
-              <p>C++</p>
+          </div>
+
+          <div className="skill-category reveal">
+            <h3 className="skill-category-heading">Frontend Development</h3>
+            <div className="skills-container">
+              <div className="glass-card skill-card reveal">
+                <i className="devicon-html5-plain"></i>
+                <p>HTML</p>
+              </div>
+              <div className="glass-card skill-card reveal">
+                <i className="devicon-css3-plain"></i>
+                <p>CSS</p>
+              </div>
+              <div className="glass-card skill-card reveal">
+                <i className="devicon-javascript-plain"></i>
+                <p>JavaScript</p>
+              </div>
+              <div className="glass-card skill-card reveal">
+                <i className="devicon-react-original"></i>
+                <p>React</p>
+              </div>
+              <div className="glass-card skill-card reveal">
+                <i className="devicon-bootstrap-plain"></i>
+                <p>Bootstrap</p>
+              </div>
             </div>
-            <div className="glass-card skill-card reveal">
-              <i className="devicon-java-plain"></i>
-              <p>Java</p>
+          </div>
+
+          <div className="skill-category reveal">
+            <h3 className="skill-category-heading">Backend Development</h3>
+            <div className="skills-container">
+              <div className="glass-card skill-card reveal">
+                <i className="devicon-nodejs-plain"></i>
+                <p>Node.js</p>
+              </div>
             </div>
-            <div className="glass-card skill-card reveal">
-              <i className="devicon-python-plain"></i>
-              <p>Python</p>
+          </div>
+
+          <div className="skill-category reveal">
+            <h3 className="skill-category-heading">Databases</h3>
+            <div className="skills-container">
+              <div className="glass-card skill-card reveal">
+                <i className="devicon-mongodb-plain"></i>
+                <p>MongoDB</p>
+              </div>
+              <div className="glass-card skill-card reveal">
+                <i className="fas fa-database"></i>
+                <p>DBMS</p>
+              </div>
             </div>
-            <div className="glass-card skill-card reveal">
-              <i className="devicon-html5-plain"></i>
-              <p>HTML</p>
-            </div>
-            <div className="glass-card skill-card reveal">
-              <i className="devicon-css3-plain"></i>
-              <p>CSS</p>
-            </div>
-            <div className="glass-card skill-card reveal">
-              <i className="devicon-javascript-plain"></i>
-              <p>JavaScript</p>
-            </div>
-            <div className="glass-card skill-card reveal">
-              <i className="devicon-typescript-plain"></i>
-              <p>TypeScript</p>
-            </div>
-            <div className="glass-card skill-card reveal">
-              <i className="devicon-react-original"></i>
-              <p>React</p>
-            </div>
-            <div className="glass-card skill-card reveal">
-              <i className="devicon-nodejs-plain"></i>
-              <p>Node.js</p>
-            </div>
-            <div className="glass-card skill-card reveal">
-              <i className="devicon-mongodb-plain"></i>
-              <p>MongoDB</p>
-            </div>
-            <div className="glass-card skill-card reveal">
-              <i className="fas fa-database"></i>
-              <p>DBMS</p>
-            </div>
-            <div className="glass-card skill-card reveal">
-              <i className="devicon-bootstrap-plain"></i>
-              <p>Bootstrap</p>
-            </div>
-            <div className="glass-card skill-card reveal">
-              <i className="devicon-git-plain"></i>
-              <p>Git</p>
-            </div>
-            <div className="glass-card skill-card reveal">
-              <i className="devicon-github-original"></i>
-              <p>GitHub</p>
-            </div>
-            <div className="glass-card skill-card reveal">
-              <i className="devicon-docker-plain"></i>
-              <p>Docker</p>
-            </div>
-            <div className="glass-card skill-card reveal">
-              <i className="devicon-figma-plain"></i>
-              <p>Figma</p>
-            </div>
-            <div className="glass-card skill-card reveal">
-              <i className="devicon-amazonwebservices-plain"></i>
-              <p>AWS</p>
+          </div>
+
+          <div className="skill-category reveal">
+            <h3 className="skill-category-heading">Developer Tools</h3>
+            <div className="skills-container">
+              <div className="glass-card skill-card reveal">
+                <i className="devicon-git-plain"></i>
+                <p>Git</p>
+              </div>
+              <div className="glass-card skill-card reveal">
+                <i className="devicon-github-original"></i>
+                <p>GitHub</p>
+              </div>
             </div>
           </div>
         </section>

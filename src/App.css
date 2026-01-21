@@ -366,6 +366,18 @@ body.light .header.sticky {
   border-radius: 2rem;
 }
 
+.skill-category {
+  margin-bottom: 4rem;
+}
+
+.skill-category-heading {
+  font-size: 2.2rem;
+  color: var(--accent1);
+  margin-bottom: 2rem;
+  text-align: left;
+  font-weight: 700;
+}
+
 .skills-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
