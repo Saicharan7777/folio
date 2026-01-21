@@ -290,7 +290,7 @@ function App() {
           </div>
           <div className="home-img reveal">
             <img
-              src="https://uploads.onecompiler.io/42b5cwusm/444rkd99p/23P31A4245_Drive_Ready.png"
+              src="https://uploads.onecompiler.io/42b5cwusm/44b9ypd9g/23P31A4245_Drive_Ready%20(1).png"
               alt="Saicharan Maddimsetti"
             />
           </div>
