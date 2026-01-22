@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState, useMemo } from 'react';
 import Particles, { initParticlesEngine } from '@tsparticles/react';
-import { loadSlim } from '@tsparticles/slim'; 
+import { loadSlim } from '@tsparticles/slim';  
 import Typed from 'typed.js';
 import './App.css';
 
