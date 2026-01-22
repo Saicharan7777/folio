@@ -142,7 +142,7 @@ function App() {
     () => ({
       particles: {
         number: {
-          value: 60,
+          value: 80,
           density: { enable: true, area: 800 },
         },
         color: { value: theme === 'light' ? '#5a6861' : '#a4b2ac' },
@@ -154,10 +154,10 @@ function App() {
         size: { value: 2 },
         links: {
           enable: true,
-          distance: 150,
+          distance: 170,
           color: theme === 'light' ? '#5a6861' : '#a4b2ac',
-          opacity: 0.4,
-          width: 1,
+          opacity: 0.6,
+          width: 1.4,
         },
         move: {
           enable: true,
