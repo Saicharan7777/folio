@@ -505,7 +505,7 @@ function App() {
                 </p>
                 <div className="project-links">
                   <a
-                    href="https://3355.oneapp.dev/"
+                    href="https://tic-tac-toe-main-woad.vercel.app/"
                     target="_blank"
                     rel="noreferrer"
                     className="btn"
@@ -513,7 +513,7 @@ function App() {
                     <i className="fas fa-external-link-alt"></i> Demo
                   </a>
                   <a
-                    href="https://github.com/Saicharan7777/Tic-Tac-Toe"
+                    href="https://github.com/Saicharan7777/Tic-Tac-Toe_main"
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-secondary"
@@ -538,7 +538,7 @@ function App() {
                 </p>
                 <div className="project-links">
                   <a
-                    href="https://335566.oneapp.dev/"
+                    href="https://calculator-mu-wine.vercel.app/"
                     target="_blank"
                     rel="noreferrer"
                     className="btn"
@@ -546,7 +546,7 @@ function App() {
                     <i className="fas fa-external-link-alt"></i> Demo
                   </a>
                   <a
-                    href="https://github.com/Saicharan7777/Calculator-Main"
+                    href="https://github.com/Saicharan7777/Calculator"
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-secondary"
@@ -556,14 +556,14 @@ function App() {
                 </div>
               </div>
             </div>
+            
 
-            <div
-              className="glass-card project-card reveal"
-            >
+            <div className="glass-card project-card reveal">
               <img
                 src="https://uploads.onecompiler.io/42b5cwusm/43wmyckzh/3.png"
                 alt="Level Up Dev"
               />
+              
               <div className="project-content">
                 <h4>Level UP DEV</h4>
                 <p>
@@ -573,7 +573,7 @@ function App() {
                 </p>
                 <div className="project-links">
                   <a
-                    href="https://chvmkiran.github.io/LevelUpDev/"
+                    href="https://leve-l-up-dev.vercel.app"
                     target="_blank"
                     rel="noreferrer"
                     className="btn"
@@ -581,7 +581,7 @@ function App() {
                     <i className="fas fa-external-link-alt"></i> Demo
                   </a>
                   <a
-                    href="https://github.com/Saicharan7777/LeveLUpDev"
+                    href="https://github.com/Saicharan7777/LevelUpDev"
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-secondary"
@@ -593,7 +593,7 @@ function App() {
             </div>
           </div>
         </section>
-
+        
         <section className="contact" id="contact">
           <h2 className="heading reveal">Let&apos;s Build Something Together</h2>
           <form action="#" className="reveal">
