@@ -91,6 +91,18 @@
   -webkit-text-size-adjust: 100%;
 }
 
+/* Light theme override driven by the app's body.light class */
+body.light {
+  --color-bg-primary: #f0f2f5;
+  --color-bg-secondary: #ffffff;
+  --color-bg-elevated: #ffffff;
+  --color-text-primary: #1e1e2e;
+  --color-text-secondary: #4a5568;
+  --color-text-muted: #718096;
+  --color-border: rgba(0, 0, 0, 0.1);
+  --color-shadow: rgba(0, 0, 0, 0.1);
+}
+
 /* Light Theme Variables */
 @media (prefers-color-scheme: light) {
   :root {
