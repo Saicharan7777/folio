@@ -280,7 +280,7 @@ function App() {
               </a>
             </div>
             <a
-              href="https://drive.google.com/file/d/1A22aGg15DCm_rRQ_6tLkbCicpgU8hki1/view"
+              href="https://drive.google.com/file/d/1C8374zyXFYbljYM4Tzjxxm_VI1Zc7EpL/view?usp=drive_link"
               target="_blank"
               rel="noreferrer"
               className="btn btn-secondary"
